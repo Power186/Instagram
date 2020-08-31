@@ -1,3 +1,3 @@
 # Instagram
 
-# Instagram Clone 
+Instagram Clone 
